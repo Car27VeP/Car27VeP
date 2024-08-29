@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Car27VeP
+- 👋 Hi, Charlie here
 - 👀 I’m interested in AED, Data Science and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
