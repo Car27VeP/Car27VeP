@@ -5,15 +5,6 @@ I specialize in data science with over a year of experience using Python 🐍 an
 I thrive on optimizing procedures and results to drive higher revenues 💰. Having implemented over 10 personal projects 🚀, I possess extensive knowledge in machine learning 🤖, statistics 📈, probability 🎲, and problem-solving 🔍.
 
 Let's connect and explore how I can contribute to your projects! 🤝
-
-<hr>
-
-<h2 align="center">📫 Get in touch with me</h2>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jose-carlos-velazquez-pazaran-36a035178/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@outlook.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <hr>
 
 <h2 align="center"> 🧰 Tools of Trade</h2>
@@ -47,6 +38,18 @@ Let's connect and explore how I can contribute to your projects! 🤝
 | PowerShell | 🖱️ |
 | MATLAB | 📐 |
 | Servers | 🖥️ |
+</p>
+
+<hr>
+
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Car27Vep&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Car27Vep&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
 </p>
 
 <hr>
