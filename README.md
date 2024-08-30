@@ -6,7 +6,7 @@
 - ⚡ Fun fact: guitar player freak and gamer!
 
 
-<h2  align="center">💻🛠️ 🗂️  Take I look at What I've done so far :) :point_down: </h2>
+<h2  align="center">💻🛠️ 🗂️  Take I look at what I've done so far :smiley: :point_down: </h2>
 
 <!---
 Car27VeP/Car27VeP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
