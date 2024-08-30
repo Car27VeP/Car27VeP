@@ -5,6 +5,42 @@
 - 📫 How to reach me carlos.pazaran@outlook.com
 - ⚡ Fun fact: guitar player freak and gamer!
 
+<hr>
+
+<h2 align="center"> 🧰 Tools of Trade</h2>
+<p align="center">| Python | 🐍 |
+| pandas | 🐼 |
+| NumPy | 🔢 |
+| matplotlib | 📊 |
+| seaborn | 🌊 |
+| plotly | 📈 |
+| scikit-learn (sklearn) | 📚 |
+| SciPy | 🔬 |
+| Streamlit | 🌐 |
+| SQL | 🗃️ |
+| Windows | 🪟 |
+| MacOS | 🍏 |
+| Linux | 🐧 |
+| Markdown | 📝 |
+| LaTeX | 📜 |
+| Bash | 💻 |
+| Documentación | 📖 |
+| Git | 🌲 |
+| GitHub | 🐙 |
+| Pruebas automatizadas | ✅ |
+| Console | 💻 |
+| Visual Studio Code | 🖥️ |
+| Google Colab | 📔 |
+| Excel | 📊 |
+| PowerPoint | 📈 |
+| Azure | ☁️ |
+| Backup Exec | 💾 |
+| PowerShell | 🖱️ |
+| MATLAB | 📐 |
+| Servers | 🖥️ |
+</p>
+
+<hr>
 
 <h2  align="center">💻🛠️ 🗂️  Take I look at what I've done so far :smiley: :point_down: </h2>
 
