@@ -1,6 +1,6 @@
 ### Data Science Enthusiast
 
-I specialize in data science with over a year of experience using Python 🐍 and SQL 🗃️. With a solid grasp of the software development lifecycle and a deep understanding of technologies for developing and deploying scalable, high-availability applications 🌐, including networks and infrastructure, I am passionate about leveraging and enhancing my skills in data manipulation and visualization 📊.
+I specialize in data science with over a year of experience using Python 🐍 and AI 🤖. With a solid grasp of the software development lifecycle and a deep understanding of technologies for developing and deploying scalable, high-availability applications 🌐, including networks and infrastructure, I am passionate about leveraging and enhancing my skills in data manipulation and visualization 📊.
 
 I thrive on optimizing procedures and results to drive higher revenues 💰. Having implemented over 10 personal projects 🚀, I possess extensive knowledge in machine learning 🤖, statistics 📈, probability 🎲, and problem-solving 🔍.
 
